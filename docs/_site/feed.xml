@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tigermeet.space documentation</title>
+    <description>Documentation for tigermeet.space a social media application for RIT students.
+</description>
+    <link>https://ericdudley.github.io/tigermeet//</link>
+    <atom:link href="https://ericdudley.github.io/tigermeet//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 Oct 2016 23:24:44 -0400</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2016 23:24:44 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Initial Commit</title>
+        <description>&lt;p&gt;Initial post. This will be a series of development updates. Soon to come
+will be early development documents.&lt;/p&gt;
+
+&lt;h3 id=&quot;documents&quot;&gt;Documents&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Requirements
+    &lt;ul&gt;
+      &lt;li&gt;Project statement&lt;/li&gt;
+      &lt;li&gt;Stakeholders&lt;/li&gt;
+      &lt;li&gt;System requirements&lt;/li&gt;
+      &lt;li&gt;User profiles&lt;/li&gt;
+      &lt;li&gt;Requirement definitions&lt;/li&gt;
+      &lt;li&gt;Use cases&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Project Plan&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Design&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 19 Oct 2016 23:06:00 -0400</pubDate>
+        <link>https://ericdudley.github.io/tigermeet//test/2016/10/19/initial-commit.html</link>
+        <guid isPermaLink="true">https://ericdudley.github.io/tigermeet//test/2016/10/19/initial-commit.html</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+  </channel>
+</rss>
