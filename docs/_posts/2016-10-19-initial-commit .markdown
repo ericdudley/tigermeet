@@ -7,14 +7,14 @@ categories: test
 Initial post. This will be a series of development updates. Soon to come
 will be early development documents.
 
-###Documents
+### Documents
 * Requirements
-	+ Project statement
-	+ Stakeholders
-	+ System requirements
-	+ User profiles
-	+ Requirement definitions
-	+ Use cases
+	* Project statement
+	* Stakeholders
+	* System requirements
+	* User profiles
+	* Requirement definitions
+	* Use cases
 
 * Project Plan
 
