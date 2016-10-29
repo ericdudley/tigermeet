@@ -1,4 +1,4 @@
 # tigermeet
 A social media application.
 
-Meant for RIT students.
+Meant for RIT students and alumni.
